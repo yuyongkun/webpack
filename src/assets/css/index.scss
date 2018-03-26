@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'myfont';
+    src: url('../font/IcoMoon-Free.ttf') format('ttf'),
+    url('../font/MuseoSans_900.otf') format('otf');
+    font-weight: 600;
+    font-style: normal;
+}
+* {
+    color: red;
+    font-family: 'myfont';
+    background-image: url(../img/22.jpg);
+    font-size: 36px;
+}

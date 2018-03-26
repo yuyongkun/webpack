@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'myfont';
+  src: url(/assets/font/72c742bc4398b2803e5ebcdc65d4a03c.ttf) format("ttf"), url(/assets/font/f5d070fca3ddc0fce188de14f62bf795.otf) format("otf");
+  font-weight: 600;
+  font-style: normal; }
+
+* {
+  color: red;
+  font-family: 'myfont';
+  background-image: url(/assets/img/22.5e6a2fc.jpg);
+  font-size: 36px; }
